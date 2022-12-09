@@ -1,4 +1,4 @@
-# 3d-engine
+# 3d-engine using SFML and math!
 An attempt at a 3d engine written completely in C++
 
 Current State:
